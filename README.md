@@ -113,3 +113,13 @@ Claude Code와 함께 GKE 위에서 SMB → Enterprise 수준의 배포 파이�
 - 📍  [교보문고](https://product.kyobobook.co.kr/detail/S000220220936)
 - 📍  [예스24](https://link.yes24.com/a/Ldoo2neRav)
 - 📍  [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791140719174)
+
+***
+<p align="center">
+<a href="https://promo.kuberneteslab.dev/ko/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://promo.kuberneteslab.dev/images/readme/banner-ko-dark.png">
+  <img src="https://promo.kuberneteslab.dev/images/readme/banner-ko-light.png" alt="리눅스 재단 자격증 할인 코드: CKA, CKS, MCPA 등 상시 30%, 더 큰 할인은 눌러서 확인" width="720">
+</picture>
+</a>
+</p>
